@@ -1,4 +1,5 @@
 Crypto Tax Calculator
+
 A React-based web application to calculate capital gains tax on cryptocurrency transactions. The application allows users to input buy and sell dates, quantities, and fees, and calculates the gain or loss, as well as the estimated tax owed based on annual income.
 
 Table of Contents
